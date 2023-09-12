@@ -11,6 +11,7 @@ namespace MyNewPracticeGithubApp
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO GITHUB !!!");
+            Console.WriteLine("HELLO WORLD !!!");
 
             Console.ReadLine();
         }
